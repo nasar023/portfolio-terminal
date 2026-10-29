@@ -1,0 +1,5 @@
+ID,Tanggal,Kategori,Kode Saham,Tipe,Jumlah Unit,Harga per Lembar,Fee (Rp),Total Transaksi (Rp)
+1,2026-10-26,Saham BEI,BBRI,BELI,18.0,3284.0,0.0,5911200.0
+2,2026-10-26,Saham BEI,BMRI,BELI,8.0,4177.0,0.0,3341600.0
+3,2026-10-26,Kripto (USDT),BTC,BELI,0.001,70000.0,0.0,1256920.0
+4,2026-10-26,Kripto (USDT),BTC,JUAL,0.001,70000.0,0.0,1256920.0

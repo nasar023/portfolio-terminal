@@ -1,0 +1,13 @@
+ID,Tanggal,Jenis,Keterangan,Jumlah (Rp)
+1,2026-10-26,TOP UP,Top up dana ke Rekening Utama,100000000.0
+2,2026-10-26,PENYESUAIAN MANUAL,Penyesuaian saldo paksa sistem,0.0
+3,2026-10-27,TOP UP,Top up dana ke Rekening Utama,1000000.0
+4,2026-10-27,PENYESUAIAN MANUAL,Penyesuaian saldo paksa sistem,0.0
+5,2026-10-27,TOP UP,Top up dana ke Rekening Utama,1000000.0
+6,2026-10-27,DIVIDEN,Terima dividen dari BBRI,100000.0
+7,2026-10-27,TOP UP RDN,Transfer dari Bank ke RDN,1000000.0
+8,2026-10-27,TARIK RDN,Penarikan dana RDN ke Rekening Bank,1000000.0
+9,2026-10-27,TOP UP,Top up dana ke Rekening Utama,1000000.0
+10,2026-10-27,TARIK,Tarik dana dari Rekening Utama,2000000.0
+11,2026-10-27,TOP UP,Top up dana ke Rekening Utama,1000000.0
+12,2026-10-28,TARIK,Tarik dana dari Rekening Utama,1000000.0

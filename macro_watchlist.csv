@@ -1,0 +1,9 @@
+Simbol,Label,Tipe
+^JKSE,IHSG,Index
+IDR=X,USD/IDR,Forex
+GC=F,Emas,Commodity
+^GSPC,S&P 500,Index
+BTC-USD,Bitcoin,Crypto
+ETH-USD,Ethereum,Crypto
+SOL-USD,Solana,Crypto
+ASII.JK,BBCA,Stock
